@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#Test
 #Script assumes you have already set the environment variables using 'aws configure'
 #Script deletes all hosted zones
 #Log deleted hosted zones to a file
